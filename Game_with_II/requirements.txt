@@ -1,5 +1,7 @@
-Required Libraries:
+# Car-QLearning
 
-pyglet (version 1.5.27)
-
-pygame (version 2.4.0)
+Requirements:
+Pyglet (1.5.27)
+Pygame (2.4.0)
+numpy (1.23.5)
+tensorflow (2.10.1) (no 1.X tensorflow)
